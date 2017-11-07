@@ -1,0 +1,8 @@
+{
+  "name": "ionic-debugging-sentry",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
